@@ -1,20 +1,15 @@
-<<<<<<< HEAD
-# app
+# ClickNum
 
-A new Flutter project.
+ClickNum est un mini-jeu Flutter où l'on doit appuyer sur les chiffres dans l'ordre le plus rapidement possible.
 
-## Getting Started
+## Fonctionnalités
+- Chrono par niveau
+- Niveaux progressifs
+- Boutons dispersés
+- Verrouillage de niveaux
+- Page de sélection des niveaux
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Projet-Flutter
->>>>>>> f74d7e26706290987c128976c0fc8728e0348651
+## Lancement
+```bash
+flutter pub get
+flutter run
