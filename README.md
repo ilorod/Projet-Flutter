@@ -1,6 +1,6 @@
 # ClickNum – Projet Flutter
 
-## 👤 Prénom NOM
+## 👤 
 - Prénom : Ilona
 - Nom : Rodriguès
 
