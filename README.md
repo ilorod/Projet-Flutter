@@ -41,7 +41,10 @@ Chaque niveau augmente en difficulté avec plus de chiffres et un temps ajusté.
 
 - Développé avec Flutter (Dart)
 - Projet testé sur Android Studio & VS Code
+  
 - Prêt à être cloné et exécuté avec :  
-  ```bash
+  git clone https://github.com/ilorod/Projet-Flutter.git
+  cd Projet-Flutter
   flutter pub get
   flutter run
+
