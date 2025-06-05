@@ -22,29 +22,14 @@ Chaque niveau augmente en difficulté avec plus de chiffres et un temps ajusté.
 
 ---
 
-## ✅ État d’avancement
-
-- Fonctionnalités principales terminées ✅
-- Projet testé sur environnement de développement Flutter
-- Dépôt Git fonctionnel et à jour
-
----
-
-## 🔗 Lien vers le dépôt Git
-
-👉 [https://github.com/ilorod/Projet-Flutter](https://github.com/ilorod/Projet-Flutter)
-
-
----
-
 ## 📦 Informations techniques
 
 - Développé avec Flutter (Dart)
 - Projet testé sur Android Studio & VS Code
   
 - Prêt à être cloné et exécuté avec :  
-  git clone https://github.com/ilorod/Projet-Flutter.git
-  cd Projet-Flutter
-  flutter pub get
-  flutter run
+   - git clone https://github.com/ilorod/Projet-Flutter.git
+   - cd Projet-Flutter
+   - flutter pub get
+   - flutter run
 
